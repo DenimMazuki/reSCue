@@ -2,6 +2,7 @@
 </br>
 A project hacked together in Cal Hacks 2017
 Created by: Chris Cao, Denim Mazuki, David Valdez, Thomas Zhang
+</br>
 DevPost: https://devpost.com/software/rescue-xdkhc8
 
 A dashboard using APIs from Cisco Meraki, WRLD, and Twitter to provide location and sentiment analysis of a location.
